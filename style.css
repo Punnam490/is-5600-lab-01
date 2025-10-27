@@ -24,11 +24,11 @@ nav {
   height: 100px;
 }
 header {
-  background-image: url("images/florence.jpg");  /* replace with your actual image file name */
-  background-size: cover;                     /* makes the image fill the entire area */
-  background-position: center;                /* centers the image */
-  width: 100%;                                /* stretches full width of the page */
-  min-height: 500px;                          /* sets minimum height of the header */
+  background-image: url("images/florence.jpg");  
+  background-size: cover;                    
+  background-position: center;                
+  width: 100%;                              
+  min-height: 500px;                         
 }
 
 
@@ -139,5 +139,6 @@ main {
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   text-align: center;
 }
+
 
 
